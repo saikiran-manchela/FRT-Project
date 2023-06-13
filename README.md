@@ -1,12 +1,12 @@
-# ** Gelato -- FRT-Project **
+#  Gelato -- FRT-Project 
 This is my FRT final project
 # Azure static web app URL : 
 
-**Project repository** --> https://github.com/JamiRohit/Grocery-Shopping
+** Project repository ** --> https://github.com/JamiRohit/Grocery-Shopping
 
-**Project Link** --> https://agreeable-island-095e4ec10.3.azurestaticapps.net
+** Project Link ** --> https://agreeable-island-095e4ec10.3.azurestaticapps.net
 
-**Project Demo Video** --> https://youtu.be/PecdHZdFIDc
+** Project Demo Video ** --> https://youtu.be/PecdHZdFIDc
 
 
 
