@@ -1,6 +1,5 @@
 #  Gelato -- FRT-Project 
 This is my FRT final project
-# Azure static web app URL : 
 
 **Project repository** --> https://github.com/JamiRohit/Grocery-Shopping
 
