@@ -12,6 +12,7 @@ This is my FRT final project
 **Azure technologies used for Project**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Static web apps
+* Web apps
 * Chatbot
 
 
