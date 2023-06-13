@@ -1,12 +1,11 @@
 #  Gelato -- FRT-Project 
 This is my FRT final project
 
-**Project repository** --> https://github.com/JamiRohit/Grocery-Shopping
+**Project repository** --> https://github.com/saikiran-manchela/FRT-Project.git
 
-**Project Link** --> https://agreeable-island-095e4ec10.3.azurestaticapps.net
+**Project Link** --> https://salmon-mushroom-0a1a7c310.3.azurestaticapps.net
 
-**Project Demo Video** --> https://youtu.be/PecdHZdFIDc
-
+**Project Demo Video** --> https://youtu.be/JSb9ORrLTOM
 
 
 **Azure technologies used for Project**
