@@ -2,22 +2,22 @@
 This is my FRT final project
 # Azure static web app URL : 
 
-** Project repository ** --> https://github.com/JamiRohit/Grocery-Shopping
+**Project repository** --> https://github.com/JamiRohit/Grocery-Shopping
 
-** Project Link ** --> https://agreeable-island-095e4ec10.3.azurestaticapps.net
+**Project Link** --> https://agreeable-island-095e4ec10.3.azurestaticapps.net
 
-** Project Demo Video ** --> https://youtu.be/PecdHZdFIDc
+**Project Demo Video** --> https://youtu.be/PecdHZdFIDc
 
 
 
-** Azure technologies used for Project **
+**Azure technologies used for Project**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Static web apps
 * Chatbot
 
 
 
-** Features and Functionalities **
+**Features and Functionalities**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * Interactive and responsive UI.
@@ -29,7 +29,7 @@ This is my FRT final project
 * Also included shop timimgs of our offline store.
 
 
-** ScreenShots **
+**ScreenShots**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Home Page
@@ -66,7 +66,7 @@ Chatbot
 ![image](https://github.com/saikiran-manchela/FRT-Project/assets/101241204/261f41fa-8a60-4dda-841e-779f9f8e2f84)
 
 
-** Tech Stack **
+**Tech Stack**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * Azure (Static web app)
