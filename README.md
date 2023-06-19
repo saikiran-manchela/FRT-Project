@@ -5,7 +5,7 @@ This is my FRT final project
 
 **Project Link** --> https://salmon-mushroom-0a1a7c310.3.azurestaticapps.net
 
-**Project Demo Video** --> https://youtu.be/JSb9ORrLTOM
+**Project Demo Video** --> https://youtu.be/1qnBfhMFeuw
 
 
 **Azure technologies used for Project**
