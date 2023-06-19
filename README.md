@@ -10,9 +10,9 @@ This is my FRT final project
 
 **Azure technologies used for Project**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* Static web apps
-* Web apps
-* Chatbot
+* Azure Static web apps
+* Azure language service
+* Azure Bot
 
 
 
@@ -22,7 +22,7 @@ This is my FRT final project
 * Interactive and responsive UI.
 * Has many icecream products that are available via store and online carting.
 * Has an Chatbot that can assist the customer with the queries.
-* Has collection of many web pages including Home,About,Product,Service,Gallery,Contact.
+* Has collection of many web pages including About,Menu,Services,Gallery,Contact,chat.
 * User can know all types of icecream type and flavours that are available.
 * Included the contact details to contact us for any type of queries.
 * Also included shop timimgs of our offline store.
@@ -69,6 +69,8 @@ Chatbot
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * Azure (Static web app)
+* Azure language service
+* Azure bot
 * HTML
 * CSS
 * JavaScript
