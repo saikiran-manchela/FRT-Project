@@ -29,40 +29,46 @@ This is my FRT final project
 
 
 **ScreenShots**
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Home page
+![image](https://github.com/saikiran-manchela/FRT-Project/assets/101241204/2496896d-0dac-43ec-a83e-2da2403d3617)
 
-Home Page
-
-![image](https://github.com/saikiran-manchela/FRT-Project/assets/101241204/ba226991-1a7c-47ac-a344-e4d417cd9800)
 
 
 About Page
 
-![image](https://github.com/saikiran-manchela/FRT-Project/assets/101241204/a0315748-7be0-4cb4-999e-bc494bf3618d)
+![image](https://github.com/saikiran-manchela/FRT-Project/assets/101241204/c105946a-8ff3-44a4-8c87-474070964348)
 
 
-Product Page
 
-![image](https://github.com/saikiran-manchela/FRT-Project/assets/101241204/3e1d43dc-23d7-4fff-9bf6-a5212d0f0955)
+Menu Page
+
+![image](https://github.com/saikiran-manchela/FRT-Project/assets/101241204/acf61b3a-e1cd-4083-9bf9-998376021325)
 
 
-Service Page
 
-![image](https://github.com/saikiran-manchela/FRT-Project/assets/101241204/33718aa6-ef11-452c-8482-148b847ffd3d)
+Services Page
+
+![image](https://github.com/saikiran-manchela/FRT-Project/assets/101241204/e2310e07-b01c-4f21-9018-17ef8bfda1d6)
+
+
 
 
 Gallery Page
 
-![image](https://github.com/saikiran-manchela/FRT-Project/assets/101241204/55608836-5dd9-4ab2-a373-c23603158810)
+![image](https://github.com/saikiran-manchela/FRT-Project/assets/101241204/57b89268-cd8c-42e1-bae5-e5394e18c275)
+
 
 
 Contact Page
 
-![image](https://github.com/saikiran-manchela/FRT-Project/assets/101241204/8a1b1aa5-0d13-4ca8-9193-63c412c510f0)
+![image](https://github.com/saikiran-manchela/FRT-Project/assets/101241204/2b48aa0e-9b68-4d0a-8917-e0a49d17756e)
+
 
 
 Chatbot
-![image](https://github.com/saikiran-manchela/FRT-Project/assets/101241204/261f41fa-8a60-4dda-841e-779f9f8e2f84)
+![image](https://github.com/saikiran-manchela/FRT-Project/assets/101241204/d6149d08-cecf-47cc-a13f-aa158389ff1a)
+
 
 
 **Tech Stack**
